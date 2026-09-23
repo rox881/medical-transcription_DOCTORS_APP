@@ -1,4 +1,4 @@
-<img width="926" height="471" alt="Medi Tumbneil" src="https://github.com/user-attachments/assets/d1553203-f160-4687-afb0-58af0b670e22" /># 🩺Doctors Clinic — Live Ambient AI Medical Scribe & Clinical EHR
+# 🩺Doctors Clinic — Live Ambient AI Medical Scribe & Clinical EHR
 
 An ambient AI medical scribe that listens to natural doctor-patient consultations via the browser microphone, transcribes speech in real time using **Deepgram Nova-2 Medical STT**, extracts 9 standardized clinical EHR field groups with **Groq Cloud LLMs (`openai/gpt-oss-20b`)**, and generates 1-click **A4 Prescription PDFs** with SQLite session persistence.
 
@@ -13,8 +13,11 @@ An ambient AI medical scribe that listens to natural doctor-patient consultation
 ---
 
 <a href="https://www.youtube.com/watch?v=1t2Fr9SfwVg" target="_blank">
-   <img src="https://share.google/1f5F959g8afN0Jo5K" alt="Watch the video" width="600" border="10" />
+   <img width="926" height="471" alt="Medi Tumbneil" src="https://github.com/user-attachments/assets/d1553203-f160-4687-afb0-58af0b670e22"  width="600" border="10" />
 </a>
+
+### click On Above Image to See Working Demo
+
 
 
 ## 🔄 System Architecture & Workflow
