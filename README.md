@@ -12,6 +12,11 @@ An ambient AI medical scribe that listens to natural doctor-patient consultation
 
 ---
 
+<a href="https://youtube.com" target="_blank">
+   <img src="https://youtu.be/1t2Fr9SfwVg?si=XYgxnNfhoz7FFpEc" alt="Watch the video" width="600" border="10" />
+</a>
+
+
 ## 🔄 System Architecture & Workflow
 
 ### Universal Visual Flowchart
